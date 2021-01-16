@@ -1,5 +1,7 @@
 # Hi there 👋
 
+
+###About me
 I am training on my own all the time in React. My dream is to be a Front-End Dev in the future
 
 - 🔭 I’m currently working on FavNotePro
