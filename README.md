@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on FavNotePro
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: konradlomzik@gmail.com
 
 <!--
