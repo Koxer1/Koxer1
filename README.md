@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Konrad's github stats](https://github-readme-stats.vercel.app/api?username=koxer1&hide=contribs,prs)
 
 
 - 🔭 I’m currently working on FavNotePro
