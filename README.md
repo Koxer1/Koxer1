@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Konrad's github stats](https://github-readme-stats.vercel.app/api?username=koxer1&show_icons=true&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koxer1&layout=compact)](https://github.com/koxer1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koxer1&hide=Shell&layout=compact)](https://github.com/koxer1/github-readme-stats)
 
 
 - 🔭 I’m currently working on FavNotePro
