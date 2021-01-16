@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning React
 - 📫 How to reach me: konradlomzik@gmail.com
 
-<a href="https://github.com/Koxer1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=koxer1&show_icons=true&hide=contribs,prs)" />
-</a>
+# My languages
 <a href="https://github.com/Koxer1/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koxer1&hide=Shell&layout=compact" />
 </a>
