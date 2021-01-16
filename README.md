@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/Koxer1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=koxer1&show_icons=true&hide=contribs,prs,issues)" />
+  <img style="height: 100px" align="center" src="https://github-readme-stats.vercel.app/api?username=koxer1&show_icons=true&hide=contribs,prs,issues)" />
 </a>
 <a href="https://github.com/Koxer1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koxer1&hide=Shell&layout=compact" />
